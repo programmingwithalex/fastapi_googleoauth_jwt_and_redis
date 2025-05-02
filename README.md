@@ -1,5 +1,11 @@
 <a id="readme-top"></a>
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![BSD-3-Clause License][license-shield]][license-url]
+
 ---
 
 <br/>
@@ -178,3 +184,14 @@ Will also run on each commit to GitHub repo.
 ## References
 
 [FastApi OAuth2 Scopes](https://fastapi.tiangolo.com/advanced/security/oauth2-scopes/)
+
+[contributors-shield]: https://img.shields.io/github/contributors/programmingwithalex/fastapi_googleoauth_jwt_and_redis?style=for-the-badge
+[contributors-url]: https://github.com/programmingwithalex/fastapi_googleoauth_jwt_and_redis/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/programmingwithalex/fastapi_googleoauth_jwt_and_redis?style=for-the-badge
+[forks-url]: https://github.com/programmingwithalex/fastapi_googleoauth_jwt_and_redis/network/members
+[stars-shield]: https://img.shields.io/github/stars/programmingwithalex/fastapi_googleoauth_jwt_and_redis?style=for-the-badge
+[stars-url]: https://github.com/programmingwithalex/fastapi_googleoauth_jwt_and_redis/stargazers
+[issues-shield]: https://img.shields.io/github/issues/programmingwithalex/fastapi_googleoauth_jwt_and_redis?style=for-the-badge
+[issues-url]: https://github.com/programmingwithalex/fastapi_googleoauth_jwt_and_redis/issues
+[license-shield]: https://img.shields.io/github/license/programmingwithalex/fastapi_googleoauth_jwt_and_redis.svg?style=for-the-badge
+[license-url]: https://github.com/programmingwithalex/fastapi_googleoauth_jwt_and_redis/blob/main/LICENSE
